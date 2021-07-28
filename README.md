@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carloscieslik
 - 👀 I’m interested in UI/UX projects
 - 🌱 I’m currently learning Front End 
-- 💞️ I’m looking to collaborate on HTMAL, CSS, FIGMA Projects
+- 💞️ I’m looking to collaborate on HTML, CSS, FIGMA Projects
 - 📫 How to reach me: cieslikcarlos@hotmail.com
 
 <!---
